@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="session1/session1.csproj" />
+</Solution>
