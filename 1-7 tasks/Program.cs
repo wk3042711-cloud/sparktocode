@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SparkToCode
+namespace _1_7_tasks
 {
     class Program
     {
